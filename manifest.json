@@ -1,0 +1,48 @@
+{
+  "name": "Expat Guide to Saint Lucia",
+  "short_name": "expat.stlucia",
+  "description": "The complete guide for expatriates moving to and living in Saint Lucia — visas, banking, taxes, healthcare, communities and cost of living.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0D7377",
+  "background_color": "#FFFFFF",
+  "lang": "en",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Getting Started",
+      "short_name": "Start",
+      "url": "/getting-started.html",
+      "description": "Your first steps guide to moving to Saint Lucia"
+    },
+    {
+      "name": "Visas & Permits",
+      "short_name": "Visas",
+      "url": "/visas-permits.html",
+      "description": "Work permits, residency, and CBI citizenship"
+    },
+    {
+      "name": "Cost of Living",
+      "short_name": "Costs",
+      "url": "/cost-comparison.html",
+      "description": "Budget guide and cost comparisons"
+    }
+  ],
+  "categories": ["travel", "lifestyle", "education"],
+  "prefer_related_applications": false
+}

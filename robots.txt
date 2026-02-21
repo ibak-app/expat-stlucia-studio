@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block legal pages from indexing (handled via meta noindex on those pages)
+Disallow: /privacy.html
+Disallow: /terms.html
+Disallow: /offline.html
+
+Sitemap: https://expat.stlucia.studio/sitemap.xml
